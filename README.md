@@ -1,4 +1,4 @@
-根据https://github.com/linwoodpendleton/nginx_proxy_conf这位大佬的配置文件修改的，可以直接用在反向代理github
+根据https://github.com/linwoodpendleton/nginx_proxy_conf 这位大佬的配置文件修改的，可以直接用在反向代理github
 使用方法：
 安装配置nginx
 将文件上传到nginx配置目下的confi.d目录
