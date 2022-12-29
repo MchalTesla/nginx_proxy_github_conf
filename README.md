@@ -3,4 +3,3 @@
 安装配置nginx
 将文件上传到nginx配置目下的confi.d目录
 然后将两处example.com 改成你自己的域名，并在pem和key的地方替换上你自己的网站证书即可
-DF
